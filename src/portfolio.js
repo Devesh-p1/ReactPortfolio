@@ -508,7 +508,7 @@ const projects = {
     {
       id: "0",
       name: "Code Quiz",
-      url: "https://github.com/harikanani/AutomateInstaPyBot",
+      url: "https://github.com/Devesh-p1/code_quiz.git",
       description: "This is Instagram Bot. This will login to your Instagram account. Follow Users, Unfollow Users, Remove Profile Photo",
       languages: [
         {
@@ -528,7 +528,7 @@ const projects = {
     {
       id: "1",
       name: "Refactor",
-      url: "https://github.com/harikanani/react-twitter-clone",
+      url: "https://github.com/Devesh-p1/CodeRefactor.git",
       description:
         "A React Twitter Clone UI with basic functionality such as make a Tweet.Embedded Profile Tweets and Share on Twitter.",
       languages: [
@@ -549,7 +549,7 @@ const projects = {
     {
       id: "2",
       name: "Coding Tool Hub",
-      url: "https://github.com/harikanani/node-blockchain",
+      url: "https://github.com/ErnestAr/Cooding-Tool-Hub.git",
       description:
         "A simple blockchain and cryptocurrency wallet implemented in Node.js and TypeScript (for learning purposes).",
       languages: [
@@ -570,7 +570,7 @@ const projects = {
     {
       id: "3",
       name: "Day Planner",
-      url: "https://github.com/harikanani/top-crypto-gainers",
+      url: "https://github.com/Devesh-p1/day_planner.git",
       description:
         "A top high price changed crypto coins wring 24 hoursA sound-classifier webapp made with ReactJS + TensorflowJS.",
       languages: [
@@ -592,36 +592,57 @@ const projects = {
         // },
       ],
     },
-    // {
-    //   id: "4",
-    //   name: "personal-portfolio",
-    //   url: "https://github.com/harikanani/personal-portfolio",
-    //   description:
-    //     "A simple command line interface based quiz app to know more about me :).",
-    //   languages: [
-    //     {
-    //       name: "JavaScript",
-    //       iconifyClass: "logos-javascript",
-    //     },
-    //     {
-    //       name: "NodeJS",
-    //       iconifyClass: "logos-nodejs",
-    //     },
-    //   ],
-    // },
-    // {
-    //   id: "3",
-    //   name: "node_express_crud_api_starter",
-    //   url: "https://github.com/harikanani/node_express_crud_api_starter",
-    //   description:
-    //     "Simple NodeJS Express CRUD Operations API starter.",
-    //   languages: [
-    //     {
-    //       name: "NodeJS",
-    //       iconifyClass: "logos-nodejs",
-    //     },
-    //   ],
-    // },
+    {
+      id: "4",
+      name: "Fitness Tracker",
+      url: "https://github.com/Devesh-p1/fitness_tracker.git",
+      description:
+        "A simple command line interface based quiz app to know more about me :).",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
+        },
+      ],
+    },
+    {
+      id: "3",
+      name: "Budget Tracker",
+      url: "https://github.com/Devesh-p1/budgetTracker.git",
+      description:
+        "Simple NodeJS Express CRUD Operations API starter.",
+      languages: [
+        {
+          name: "HTML5",
+          iconifyClass: "vscode-icons:file-type-html",
+        },
+        {
+          name: "CSS3",
+          iconifyClass: "vscode-icons:file-type-css",
+        },
+
+        {
+          name: "JavaScript",
+          iconifyClass: "logos-javascript",
+        },
+        {
+          name: "NodeJS",
+          iconifyClass: "logos-nodejs",
+        },
+      ],
+    },
     // {
     //   id: "4",
     //   name: "node-web-scrapper",
