@@ -408,14 +408,14 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Cross Winter of Code Mentor",
-          company: "CWOC",
-          company_url: "https://crosswoc.ieeedtu.in/",
-          logo_path: "cwoc.png",
-          duration: "Feb 2021 - Present",
-          location: "Work From Home",
-          description:
-            "Mentorship responsibilities were to help students plan the project, review issues and pull requests, ensure smooth progress and help them out when they are stuck.",
+          title: "Kipling Acres long term care",
+          company: "City of Toronto",
+          company_url:
+            "https://www.toronto.ca/community-people/housing-shelter/rental-housing-tenant-information/finding-housing/long-term-care-homes/kipling-acres/",
+          logo_path: "",
+          duration: "Feb 2020",
+          location: "on-site",
+          description: "physical rehab assistant",
           color: "#4285F4",
         },
         //       {
